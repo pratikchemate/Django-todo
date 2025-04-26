@@ -28,7 +28,6 @@ django-cors-headers==4.6.0
 django-extra-views==0.14.0
 django-haystack==3.3.0
 # Editable install with no version control (django-oscar==4.0a1)
--e c:\users\admin\desktop\wt\django-oscar
 django-phonenumber-field==8.0.0
 django-tables2==2.7.0
 django-treebeard==4.7.1
